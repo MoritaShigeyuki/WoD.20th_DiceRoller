@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WoD20th_DiceRoller/1.0.0": {
+        "runtime": {
+          "WoD20th_DiceRoller.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WoD20th_DiceRoller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

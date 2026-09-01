@@ -1,0 +1,14 @@
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\bin\Debug\net8.0\WoD20th_DiceRoller.exe
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\bin\Debug\net8.0\WoD20th_DiceRoller.deps.json
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\bin\Debug\net8.0\WoD20th_DiceRoller.runtimeconfig.json
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\bin\Debug\net8.0\WoD20th_DiceRoller.dll
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\bin\Debug\net8.0\WoD20th_DiceRoller.pdb
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\obj\Debug\net8.0\WoD20th_DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\obj\Debug\net8.0\WoD20th_DiceRoller.AssemblyInfoInputs.cache
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\obj\Debug\net8.0\WoD20th_DiceRoller.AssemblyInfo.cs
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\obj\Debug\net8.0\WoD20th_DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\obj\Debug\net8.0\WoD20th_DiceRoller.dll
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\obj\Debug\net8.0\refint\WoD20th_DiceRoller.dll
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\obj\Debug\net8.0\WoD20th_DiceRoller.pdb
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\obj\Debug\net8.0\WoD20th_DiceRoller.genruntimeconfig.cache
+C:\Users\matheus.morita\Desktop\Matheus\Code\WoD20th_DiceRoller\WoD20th_DiceRoller\obj\Debug\net8.0\ref\WoD20th_DiceRoller.dll

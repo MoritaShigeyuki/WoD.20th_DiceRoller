@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YqHk2EaKYmY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matheus.morita\\Desktop\\Matheus\\Code\\WoD20th_DiceRoller\\WoD20th_DiceRoller\\WoD20th_DiceRoller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus.morita\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\matheus.morita\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\matheus.morita\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\matheus.morita\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
