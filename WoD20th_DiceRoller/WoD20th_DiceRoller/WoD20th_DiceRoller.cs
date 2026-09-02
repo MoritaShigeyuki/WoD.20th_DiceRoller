@@ -97,11 +97,11 @@ namespace WoD20th_DiceRoller
 
             // ----- Output ----- \\
             Console.WriteLine();
-            Console.Write($"Dice Pool ({diceCount}): {string.Join(", ", results)} | Difficulty: {difficulty}");
-            if (willpower) Console.WriteLine(" | Willpower: On ");
-            if (specialty) Console.Write("Specialty: On ");
-            if (modifierToggle) Console.Write($"| Modifier: {modifier:+0;-0;0} ");
-            if (noBotch) Console.Write("| No Botch: On ");
+            Console.WriteLine($"Dice Pool ({diceCount}): {string.Join(", ", results)} | Difficulty: {difficulty}");
+            if (willpower) Console.Write("Willpower: On | ");
+            if (specialty) Console.Write("Specialty: On | ");
+            if (modifierToggle) Console.Write($"Modifier: {modifier:+0;-0;0} | ");
+            if (noBotch) Console.Write("No Botch: On ");
 
             Console.WriteLine();
             if (totalSuccesses <= 0)
